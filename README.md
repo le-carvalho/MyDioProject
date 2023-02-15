@@ -1,7 +1,3 @@
-# O dia a dia de um QA: A prática de testes manuais funcionais
-
-**Esse projeto contempla algumas das práticas importantes da rotina de um profissional Quality Assurance, com foco em testes manuais funcionais.**
-
 ## MyDioProject
 
 🛑 **Pré-requisitos**
